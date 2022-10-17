@@ -2,7 +2,7 @@ Broadly, the program takes random orders over time and applies a given control a
 
 Feel free to read the uploaded paper (Sinha-Ferguson-2019) for a deeper explanation of the motivation & problem construction.
 
-The main code is SDPC.mat; the other files are helper code.
+The main code is SDPC.m; the other files are helper code.
 
 Key variables:
 	algorithm -- change this to reference a control algorithm script (currently there is TDAlg, MaxPrice, MaxWait, MinDistance, and Random)
